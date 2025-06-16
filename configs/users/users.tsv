@@ -1,0 +1,2 @@
+USER #	NAME	UID	GID	HOME	PUBKEY	UUID	COMMENT
+1	xsample	100	500	./configs/homes/xsample	./configs/homes/xsample/.ssh/id_rsa.pub	e6f5bfe7-99e5-4c80-8352-cc0d93c184fd	Xavier Sample is the Example User

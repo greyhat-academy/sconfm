@@ -1,0 +1,16 @@
+#	Obvious placeholder file
+##	Please see https://documentation.ubuntu.com/server/how-to/security/openssh-server/ for details
+
+X11Forwarding no
+AllowAgentForwarding yes
+PermitRootLogin no
+Banner /etc/issue.net
+AddressFamily inet
+AllowTcpForwarding yes
+AllowUsers xsample
+AuthorizedKeysFile /etc/ssh/authorized_keys
+ChrootDirectory $HOME
+Compression yes
+DenyUsers root user admin sudo su usr anonymous
+HostbasedAuthentication yes
+ListenAddress 198.51.100.1:22

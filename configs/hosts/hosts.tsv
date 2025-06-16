@@ -1,0 +1,2 @@
+HOST #	MAC	IPv4	IPv6	FQDN	NAME	UUID	COMMENT
+1		198.51.100.1	2001:db8::1	server1.hosts.domain.example	server1	5c077b88-fa3b-4ac4-a742-b4c7ff8aed6e	example server 1 - Ubuntu LTS
